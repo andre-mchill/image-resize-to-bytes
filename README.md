@@ -1,4 +1,4 @@
-# image-resize-to-bytes [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+# image-resize-to-bytes [![Dependency Status][daviddm-image]][daviddm-url]
 
 Down-sizing bigger images into the best dimensions that meets the specified bytes limits,
 this will try to produce a resize that has least lost in image quality, e.g. when uploading the image via APIs that has file size restriction.
@@ -34,9 +34,6 @@ axios
 
 MIT © [Garry Yao]()
 
-[npm-image]: https://badge.fury.io/js/image-resize-to-bytes.svg
-[npm-url]: https://npmjs.org/package/image-resize-to-bytes
-[travis-image]: https://travis-ci.org/garryyao/image-resize-to-bytes.svg?branch=master
-[travis-url]: https://travis-ci.org/garryyao/image-resize-to-bytes
-[daviddm-image]: https://david-dm.org/garryyao/image-resize-to-bytes.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/garryyao/image-resize-to-bytes
+
+[daviddm-image]: https://david-dm.org/andre-mchill/image-resize-to-bytes.svg?theme=shields.io
+[daviddm-url]: https://david-dm.org/andre-mchill/image-resize-to-bytes
