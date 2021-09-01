@@ -62,7 +62,7 @@
     "pretest": "eslint .",
     "test": "jest"
   },
-  "repository": "garryyao/image-resize-to-bytes",
+  "repository": "andrew-mchill/image-resize-to-bytes",
   "jest": {
     "testEnvironment": "node",
     "collectCoverage": true
